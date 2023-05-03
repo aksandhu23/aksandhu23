@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Amrit Sandhu</h1>
+<h1 align="center">My name is Amrit Sandhu</h1>
 
 
 - 🔭 My goal is to gain a deeper understanding of the approaches used to solve advanced environmental challenge.
