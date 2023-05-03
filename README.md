@@ -1,4 +1,4 @@
-<h1 align="center">My name is Amrit Sandhu</h1>
+<h1 align="center">Hey there! My name is Amrit Sandhu!</h1>
 
 ### What am I up to? 
 I am currently pursuing a Master of Environmental Data Science degree at the UCSB Bren School of Environmental Science & Management in California. My Master's Capstone project aims to analyze emissions intensity of electrified steel production in the United States at the individual plant level and the repo can be accessed here. 
