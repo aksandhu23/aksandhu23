@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi! My name is Amrit Sandhu</h1>
 
-<!--
-**aksandhu23/aksandhu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 My goal is to gain a deeper understanding of the approaches used to solve advanced environmental challenge.
+- 📫 How to reach me: aksandhu@bren.ucsb.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love puzzles and solving complex problems which has led me into the field of data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+
+- 2018 - present: California Air Resources Board (CARB)
+
+### Education
+
+- MS (2023): Environmental Data Science (UC Santa Barbara)
+- BS (2018): Environmental Science and Management (UC David)
